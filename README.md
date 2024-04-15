@@ -1,2 +1,2 @@
-# backend-pfsII-vagasemprego
-Back end da atividade final, interface de inscrições em vagas de emprego
+# backend-fsii
+Disciplina de FullstackII 2024
